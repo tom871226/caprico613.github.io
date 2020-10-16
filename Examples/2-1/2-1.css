@@ -1,0 +1,14 @@
+/* This is my first CSS file */
+/* selector會應用到所有符合條件的物件上 如所有div div{}
+selector {
+	property: value;
+}
+*/
+
+body {
+	background-color: pink;
+}
+
+div {
+	background-color: orange;
+}

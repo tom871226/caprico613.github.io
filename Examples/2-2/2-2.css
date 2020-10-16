@@ -1,0 +1,11 @@
+/*大部分人 Serif 表示內文(較易閱讀，有稜有角) Sans Serif表示標題(乾淨，沒稜沒繳)*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&family=Tinos&display=swap');
+
+h1 {
+	font-family: Cabin, Sans-serif; /* Sans-serif會是第二順位 */
+}
+
+p{
+	font-family: Tinos, Serif; /* Serif會是第二順位 */
+}
