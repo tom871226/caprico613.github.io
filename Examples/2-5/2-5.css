@@ -1,0 +1,4 @@
+/* '*'會選擇到所有元件*/
+* {
+	box-sizing: border-box;
+}

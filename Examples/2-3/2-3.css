@@ -1,0 +1,15 @@
+/*
+	section: #edac32; (dark orange)
+*/
+
+body {
+	background-color: cyan;
+}
+
+article {
+	background-color: rgb(89, 227, 142); 
+}
+
+section {
+	background-color: #edac32;
+}
