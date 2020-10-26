@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&family=Tinos&display=swap');
+
+body {
+	font-family: serif;
+	font-style: normal;
+	font-weight: 400;	/*字體本身胖瘦*/
+	font-size: 2.4vh;
+	line-height: 3.6vh;	/*行高*/
+
+	/*font: normal small-caps 400 2.4vh/3.6vh serif;*/
+}
+
+article {
+	background-color: black;
+	color: white;
+	margin: 5px 0;
+	padding: 10px, 5px;
+}
+
+h1 {
+	font-size: 4.8vh;
+	line-height: 7.2vh;
+	color: yellow;
+	font-family: Cabin, Sans-serif; /* Sans-serif會是第二順位 */
+}
+
+p {
+	font-family: Tinos, Serif; /* Serif會是第二順位 */
+}
+
