@@ -3,3 +3,27 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body {
+	width: 100%;
+	height: 100%;
+	background-color: orange;
+	overflow-x: hidden; /*橫向沒有滾動*/
+	overflow-y: auto;
+	font: 2.4vh/3.6vh serif;  /*高度與行高*/
+}
+
+article {
+	padding: 5px 10px;
+}
+
+section {
+	margin: 20px 0px;
+}
+
+a {
+	color: white;
+	text-decoration: none; /*取消原本瀏覽器超連結的底線*/
+	font-weight: bold;
+	font-family: sans-serif;
+}
